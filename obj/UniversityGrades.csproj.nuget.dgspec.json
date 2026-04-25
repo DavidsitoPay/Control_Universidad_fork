@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\jjfloresf\\Documents\\Documentos JFlores\\UMG\\Cursos\\9no. Semestre\\03 Ingenieria de software\\02 Modulo II\\ControlU_Base\\ControlU_Base\\UniversityGrades.csproj": {}
+    "F:\\Trabajo - Personal\\.Mariano\\9 Semestre\\INGENIERÍA DE SOFTWARE\\Módulo 2\\Tareas\\Control_Universidad_fork\\UniversityGrades.csproj": {}
   },
   "projects": {
-    "D:\\Users\\jjfloresf\\Documents\\Documentos JFlores\\UMG\\Cursos\\9no. Semestre\\03 Ingenieria de software\\02 Modulo II\\ControlU_Base\\ControlU_Base\\UniversityGrades.csproj": {
+    "F:\\Trabajo - Personal\\.Mariano\\9 Semestre\\INGENIERÍA DE SOFTWARE\\Módulo 2\\Tareas\\Control_Universidad_fork\\UniversityGrades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\jjfloresf\\Documents\\Documentos JFlores\\UMG\\Cursos\\9no. Semestre\\03 Ingenieria de software\\02 Modulo II\\ControlU_Base\\ControlU_Base\\UniversityGrades.csproj",
+        "projectUniqueName": "F:\\Trabajo - Personal\\.Mariano\\9 Semestre\\INGENIERÍA DE SOFTWARE\\Módulo 2\\Tareas\\Control_Universidad_fork\\UniversityGrades.csproj",
         "projectName": "UniversityGrades",
-        "projectPath": "D:\\Users\\jjfloresf\\Documents\\Documentos JFlores\\UMG\\Cursos\\9no. Semestre\\03 Ingenieria de software\\02 Modulo II\\ControlU_Base\\ControlU_Base\\UniversityGrades.csproj",
-        "packagesPath": "C:\\Users\\jjfloresf\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\jjfloresf\\Documents\\Documentos JFlores\\UMG\\Cursos\\9no. Semestre\\03 Ingenieria de software\\02 Modulo II\\ControlU_Base\\ControlU_Base\\obj\\",
+        "projectPath": "F:\\Trabajo - Personal\\.Mariano\\9 Semestre\\INGENIERÍA DE SOFTWARE\\Módulo 2\\Tareas\\Control_Universidad_fork\\UniversityGrades.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "F:\\Trabajo - Personal\\.Mariano\\9 Semestre\\INGENIERÍA DE SOFTWARE\\Módulo 2\\Tareas\\Control_Universidad_fork\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jjfloresf\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -70,6 +64,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.26, 8.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.26, 8.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.26, 8.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.26, 8.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -78,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
